@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\csharp\\csharp.csproj": {}
+    "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\C-sharp\\csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\csharp\\csharp.csproj": {
+    "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\C-sharp\\csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\csharp\\csharp.csproj",
+        "projectUniqueName": "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\C-sharp\\csharp.csproj",
         "projectName": "csharp",
-        "projectPath": "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\csharp\\csharp.csproj",
+        "projectPath": "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\C-sharp\\csharp.csproj",
         "packagesPath": "C:\\Users\\harshcad01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\csharp\\obj\\",
+        "outputPath": "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\C-sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harshcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"

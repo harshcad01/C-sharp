@@ -22,6 +22,7 @@ public class Harsh
     public Harsh()
     {
         c = a + b; // Calculate 'c' during object initialization
+        
     }
 
     public void cal()
