@@ -10,10 +10,12 @@ class Demo
         Harsh a = new Harsh(); // here Harsh in a object and a is a object name
         a.cal(); // here we use (. dot) for call the method from object a. 
         a.mood();
+        a.arithmetic();
+        a.switc();
     }
 }
 
-public class Harsh
+class Harsh
 {
     int a = 10;
     int b = 30;
@@ -42,9 +44,54 @@ public class Harsh
     {
         do
         {
-            Console.WriteLine(c);
+            Console.WriteLine("loop goes till.."+c);
+
             c++;
         }
         while(c<50);
     }
+
+    public void arithmetic()
+    {
+        int x=20;
+        int y=10;
+        int add=x+y;
+        Console.WriteLine("Added value is.."+add);
+        int sub=x-y;
+        Console.WriteLine("subtracted value is.."+sub);
+        int mul =x*y;
+        Console.WriteLine("multiplied value is.."+mul);
+        int div=x/y;
+        Console.WriteLine("divided value is.."+div);
+    }
+
+    public void switc()
+    {
+    Console.WriteLine("Enter firstNumber:");
+    string usera = Console.ReadLine();
+    int a = int.Parse(usera);
+
+    Console.WriteLine("Enter secondNumber:");
+    string userb = Console.ReadLine();
+    int b = int.Parse(userb); 
+
+    int c;
+
+    Console.WriteLine("Enter operator (+, -, *, /):");
+    string opt = Console.ReadLine();
+
+    switch(opt)
+    {
+        case "+":
+            c = a + b;
+            Console.WriteLine("Added value is: " + c);
+            break;
+        // Add other cases for other operators here
+
+        default:
+            Console.WriteLine("Invalid operator entered.");
+            break;
+    }
+    }
+
 }
