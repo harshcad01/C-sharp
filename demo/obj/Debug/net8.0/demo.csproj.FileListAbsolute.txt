@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\bin\Debug\net8.0\demo.exe
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\bin\Debug\net8.0\demo.dll
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\demo.sourcelink.json
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\demo.dll
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\CAD\PROJECT\C-sharp\demo\obj\Debug\net8.0\ref\demo.dll

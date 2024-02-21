@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\day2\\day2.csproj": {}
+    "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\demo\\demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\day2\\day2.csproj": {
+    "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\demo\\demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\day2\\day2.csproj",
-        "projectName": "day2",
-        "projectPath": "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\day2\\day2.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\demo\\demo.csproj",
+        "projectName": "demo",
+        "projectPath": "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\demo\\demo.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\day2\\obj\\",
+        "outputPath": "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
