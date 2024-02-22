@@ -1,0 +1,14 @@
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\obj\Debug\net7.0\Harsh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\obj\Debug\net7.0\Harsh.AssemblyInfoInputs.cache
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\obj\Debug\net7.0\Harsh.AssemblyInfo.cs
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\obj\Debug\net7.0\Harsh.csproj.CoreCompileInputs.cache
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\bin\Debug\net7.0\Harsh.exe
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\bin\Debug\net7.0\Harsh.deps.json
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\bin\Debug\net7.0\Harsh.runtimeconfig.json
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\bin\Debug\net7.0\Harsh.dll
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\bin\Debug\net7.0\Harsh.pdb
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\obj\Debug\net7.0\Harsh.dll
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\obj\Debug\net7.0\refint\Harsh.dll
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\obj\Debug\net7.0\Harsh.pdb
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\obj\Debug\net7.0\Harsh.genruntimeconfig.cache
+C:\Users\harshcad01\Desktop\cadbatch\PROJECT\C-sharp\day3\Harsh\obj\Debug\net7.0\ref\Harsh.dll
