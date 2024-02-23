@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TjM6Hy0htDVMJ8HCtZXeC6DYz7uuvDLIod0iUuSIARGC8kEWQ7lfbJctNZ4FnjhI4DyUIXF8HPV184WtbaYGoQ==",
+  "dgSpecHash": "Wo+E8J2nrgU4PWXGFLhyJzOrLdAkEUxkWr/6LCya1zM/UKOEgOF1uSkFayfoG2uE17Oy4HIWMsTWnvDYcJO1HA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harshcad01\\Desktop\\cadbatch\\PROJECT\\C-sharp\\day3\\Harsh\\Harsh.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Desktop\\CAD\\PROJECT\\C-sharp\\day3\\Harsh\\Harsh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
