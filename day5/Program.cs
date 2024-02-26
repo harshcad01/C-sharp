@@ -20,9 +20,14 @@ public class Test
         }
         else if (selectedCourse == "CAD")
         {
-            Cad c = new Cad();
+            Person4 c = new Person4();
             c.service();
             c.cadbatch();
+            c.p1details();
+            c.p2details();
+            c.p3details();
+            c.p4details();
+
         }
         else
         {

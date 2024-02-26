@@ -1,4 +1,4 @@
-public class Person2 : Person3
+public class Person2 : Person1
 {
     public void p2details()
     {

@@ -1,4 +1,4 @@
-public class Person1 : Person2
+public class Person1 : Cad
 {
     public void p1details()
     {
